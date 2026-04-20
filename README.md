@@ -145,21 +145,29 @@ var method = new GBlobInspectionMethod();
 var result = method.Inspect(request);
 ```
 
+
+
 ## 📦 相依套件
 - Emgu.CV (建議版本：4.6.0.5131)
 - Emgu.CV.Bitmap
 - Emgu.CV.runtime.windows
+
+
 
 ## ⚠️ 注意事項
 - 不同 EmguCV 版本 API 可能不相容（如 ImreadModes、ElementShape）
 - 建議固定版本避免開發問題
 - UI 不建議與 Core 混在同一專案
 
+
+
 ## 🧭 未來規劃
 🔹 檢測能力擴充
 - Particle Detection
 - Scratch Detection
 - Edge / Line 檢測
+
+
 
 ## 📄 License
 
