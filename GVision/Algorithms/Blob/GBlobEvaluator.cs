@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 using GVision.Models;
-using GVision.ROI;
+using GVision.ROI.Core;
 
 namespace GVision.Algorithms.Blob
 {

@@ -9,7 +9,7 @@ using Emgu.CV.CvEnum;
 
 using GVision.Algorithms.Blob;
 using GVision.Models;
-using GVision.ROI;
+using GVision.ROI.Models;
 
 namespace GVision.Example
 {

@@ -116,12 +116,6 @@
     <Compile Include="Algorithms\IGInspectionParameter.cs" />
     <Compile Include="Core\GInspectionMethodBase.cs" />
     <Compile Include="Example\GBlobConsoleExample.cs" />
-    <Compile Include="Example\GBlobWinFormExample.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Example\GBlobWinFormExample.Designer.cs">
-      <DependentUpon>GBlobWinFormExample.cs</DependentUpon>
-    </Compile>
     <Compile Include="Models\GDefectResult.cs" />
     <Compile Include="Models\GDefectStatistics.cs" />
     <Compile Include="Models\GInspectionRequest.cs" />
@@ -132,8 +126,25 @@
     <Compile Include="Preprocessing\GThresholdPreprocessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rendering\GOverlayRenderer.cs" />
-    <Compile Include="ROI\GRoiHelper.cs" />
-    <Compile Include="ROI\GRoiRegion.cs" />
+    <Compile Include="ROI\Core\GEmguRoiHelper.cs" />
+    <Compile Include="ROI\Example\GRoiBasicExample.cs" />
+    <Compile Include="ROI\Models\GRoiRegion.cs" />
+    <Compile Include="ROI\Core\GRoiHelper.cs" />
+    <Compile Include="ROI\Services\GRoiCollection.cs" />
+    <Compile Include="ROI\Services\GRoiManager.cs" />
+    <Compile Include="ROI\Services\GRoiSerializer.cs" />
+    <Compile Include="ROI\ViewerAdapter\IGImageViewerAdapter.cs" />
+    <Compile Include="Viewer\Controls\GImageViewer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Viewer\Enums\GOverlayType.cs" />
+    <Compile Include="Viewer\Example\GViewerExampleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viewer\Example\GViewerExampleForm.Designer.cs">
+      <DependentUpon>GViewerExampleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewer\Models\GOverlayItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Features\" />
@@ -143,8 +154,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Example\GBlobWinFormExample.resx">
-      <DependentUpon>GBlobWinFormExample.cs</DependentUpon>
+    <EmbeddedResource Include="Viewer\Example\GViewerExampleForm.resx">
+      <DependentUpon>GViewerExampleForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Emgu.CV;
 using GVision.Abstractions;
-using GVision.ROI;
+using GVision.ROI.Models;
 
 namespace GVision.Models
 {

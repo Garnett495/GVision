@@ -1,93 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SideProjects\\GVision\\GVision\\",
+  "WorkspaceRootPath": "C:\\SideProjects\\GVision\\GVision_Add ROI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision\\gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\example\\gblobwinformexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\example\\gblobwinformexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\roi\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\roi\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\models\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\models\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\core\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\core\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\core\\gemguroihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\core\\gemguroihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\services\\groicollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groicollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\services\\groimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\example\\groibasicexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\example\\groibasicexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\vieweradapter\\igimagevieweradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\vieweradapter\\igimagevieweradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\roi\\services\\groiserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groiserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_add roi\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\viewer\\models\\goverlayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\models\\goverlayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\viewer\\enums\\goverlaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\enums\\goverlaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision\\gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_Add ROI\\gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,108 +142,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "GRoiCollection.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiCollection.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiCollection.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiCollection.cs",
+              "RelativeToolTip": "GVision\\ROI\\Services\\GRoiCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T03:23:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GRoiHelper.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Core\\GRoiHelper.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Core\\GRoiHelper.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Core\\GRoiHelper.cs",
+              "RelativeToolTip": "GVision\\ROI\\Core\\GRoiHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:19:50.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GInspectionRequest.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GInspectionRequest.cs",
+              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionRequest.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GInspectionRequest.cs",
+              "RelativeToolTip": "GVision\\Models\\GInspectionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:12:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GRoiRegion.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Models\\GRoiRegion.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Models\\GRoiRegion.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Models\\GRoiRegion.cs",
+              "RelativeToolTip": "GVision\\ROI\\Models\\GRoiRegion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T03:19:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GBlobConsoleExample.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Example\\GBlobConsoleExample.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Example\\GBlobConsoleExample.cs",
               "RelativeDocumentMoniker": "GVision\\Example\\GBlobConsoleExample.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Example\\GBlobConsoleExample.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Example\\GBlobConsoleExample.cs",
               "RelativeToolTip": "GVision\\Example\\GBlobConsoleExample.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswB4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T10:02:30.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GBlobEvaluator.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T10:00:22.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GBlobFeatureExtractor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:59:58.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GBlobCandidateDetector.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:59:37.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GMorphologyPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
-              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
-              "RelativeToolTip": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:59:17.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GBlobWinFormExample.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Example\\GBlobWinFormExample.cs",
-              "RelativeDocumentMoniker": "GVision\\Example\\GBlobWinFormExample.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Example\\GBlobWinFormExample.cs",
-              "RelativeToolTip": "GVision\\Example\\GBlobWinFormExample.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T10:04:36.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GOverlayRenderer.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Rendering\\GOverlayRenderer.cs",
-              "RelativeDocumentMoniker": "GVision\\Rendering\\GOverlayRenderer.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Rendering\\GOverlayRenderer.cs",
-              "RelativeToolTip": "GVision\\Rendering\\GOverlayRenderer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T10:00:51.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GBlobInspectionMethod.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwBsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAIA3wCMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T09:52:56.617Z",
               "EditorCaption": ""
@@ -207,184 +238,319 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GThresholdPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
-              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
-              "RelativeToolTip": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "GRoiManager.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiManager.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiManager.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiManager.cs",
+              "RelativeToolTip": "GVision\\ROI\\Services\\GRoiManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:58:57.909Z",
+              "WhenOpened": "2026-04-26T03:23:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GEmguRoiHelper.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "RelativeToolTip": "GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T03:22:28.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "GBlurPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
-              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
-              "RelativeToolTip": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Title": "GRoiBasicExample.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "RelativeToolTip": "GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:58:01.243Z",
+              "WhenOpened": "2026-04-26T03:24:42.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GGrayPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
-              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
-              "RelativeToolTip": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Title": "IGImageViewerAdapter.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "RelativeToolTip": "GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:57:42.476Z",
+              "WhenOpened": "2026-04-26T03:24:17.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GBlobFeature.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwFUAAAAWAAAAAAAAAA==",
+              "Title": "GRoiSerializer.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "RelativeToolTip": "GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:25:12.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GBlobParameter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:25:05.345Z",
+              "WhenOpened": "2026-04-26T03:23:47.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "GRoiHelper.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\ROI\\GRoiHelper.cs",
-              "RelativeDocumentMoniker": "GVision\\ROI\\GRoiHelper.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\ROI\\GRoiHelper.cs",
-              "RelativeToolTip": "GVision\\ROI\\GRoiHelper.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwv34AAAAAAAAAAAAAAA==",
+              "Title": "GViewerExampleForm.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "RelativeToolTip": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:19:50.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T02:11:19.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "GRoiRegion.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\ROI\\GRoiRegion.cs",
-              "RelativeDocumentMoniker": "GVision\\ROI\\GRoiRegion.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\ROI\\GRoiRegion.cs",
-              "RelativeToolTip": "GVision\\ROI\\GRoiRegion.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA9wDcAAAAAAAAAAAAAAA==",
+              "Title": "GViewerExampleForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_0426\\GVision\\Viewer\\Example\\GViewerExampleForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\GVision_0426\\GVision\\Viewer\\Example\\GViewerExampleForm.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:19:42.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GDefectStatistics.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GDefectStatistics.cs",
-              "RelativeDocumentMoniker": "GVision\\Models\\GDefectStatistics.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GDefectStatistics.cs",
-              "RelativeToolTip": "GVision\\Models\\GDefectStatistics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:44.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GDefectResult.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GDefectResult.cs",
-              "RelativeDocumentMoniker": "GVision\\Models\\GDefectResult.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GDefectResult.cs",
-              "RelativeToolTip": "GVision\\Models\\GDefectResult.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwBEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:38.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GInspectionResult.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GInspectionResult.cs",
-              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionResult.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GInspectionResult.cs",
-              "RelativeToolTip": "GVision\\Models\\GInspectionResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:31.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T02:11:16.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "GInspectionRequest.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GInspectionRequest.cs",
-              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionRequest.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Models\\GInspectionRequest.cs",
-              "RelativeToolTip": "GVision\\Models\\GInspectionRequest.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowCkAAAAPAAAAAAAAAA==",
+              "Title": "GImageViewer.cs [Design]",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs [Design]",
+              "RelativeToolTip": "GVision\\Viewer\\Controls\\GImageViewer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:23.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T02:08:23.426Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GInspectionMethodBase.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Core\\GInspectionMethodBase.cs",
-              "RelativeDocumentMoniker": "GVision\\Core\\GInspectionMethodBase.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Core\\GInspectionMethodBase.cs",
-              "RelativeToolTip": "GVision\\Core\\GInspectionMethodBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "GOverlayType.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "RelativeToolTip": "GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:08:13.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T02:05:05.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IGInspectionParameter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionParameter.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionParameter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionParameter.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\IGInspectionParameter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "GOverlayItem.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "RelativeToolTip": "GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:08:00.6Z",
+              "WhenOpened": "2026-04-26T02:04:59.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GImageViewer.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "RelativeDocumentMoniker": "GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "RelativeToolTip": "GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:04:52.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "GBlobFeatureExtractor.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:59:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GBlobCandidateDetector.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:59:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GMorphologyPreprocessor.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "RelativeToolTip": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:59:17.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GOverlayRenderer.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Rendering\\GOverlayRenderer.cs",
+              "RelativeDocumentMoniker": "GVision\\Rendering\\GOverlayRenderer.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Rendering\\GOverlayRenderer.cs",
+              "RelativeToolTip": "GVision\\Rendering\\GOverlayRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:00:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GThresholdPreprocessor.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "RelativeToolTip": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:58:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GBlurPreprocessor.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "RelativeToolTip": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:58:01.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GGrayPreprocessor.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "RelativeDocumentMoniker": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "RelativeToolTip": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:57:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GBlobFeature.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwFUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:25:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GBlobParameter.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:25:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GDefectStatistics.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GDefectStatistics.cs",
+              "RelativeDocumentMoniker": "GVision\\Models\\GDefectStatistics.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GDefectStatistics.cs",
+              "RelativeToolTip": "GVision\\Models\\GDefectStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:12:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GDefectResult.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GDefectResult.cs",
+              "RelativeDocumentMoniker": "GVision\\Models\\GDefectResult.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GDefectResult.cs",
+              "RelativeToolTip": "GVision\\Models\\GDefectResult.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:12:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GInspectionResult.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GInspectionResult.cs",
+              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionResult.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Models\\GInspectionResult.cs",
+              "RelativeToolTip": "GVision\\Models\\GInspectionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:12:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GInspectionMethodBase.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Core\\GInspectionMethodBase.cs",
+              "RelativeDocumentMoniker": "GVision\\Core\\GInspectionMethodBase.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Core\\GInspectionMethodBase.cs",
+              "RelativeToolTip": "GVision\\Core\\GInspectionMethodBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:08:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGInspectionParameter.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\IGInspectionParameter.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionParameter.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\IGInspectionParameter.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\IGInspectionParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:08:00.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "IGInspectionMethod.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionMethod.cs",
+              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\IGInspectionMethod.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionMethod.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionMethod.cs",
+              "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Algorithms\\IGInspectionMethod.cs",
               "RelativeToolTip": "GVision\\Algorithms\\IGInspectionMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:07:41.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T09:07:41.705Z"
             }
           ]
         }

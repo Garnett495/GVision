@@ -7,7 +7,7 @@ using System.Drawing;
 using Emgu.CV;
 using GVision.Core;
 using GVision.Models;
-using GVision.ROI;
+using GVision.ROI.Core;
 
 using GVision.Preprocessing;
 using GVision.Rendering;
@@ -45,7 +45,7 @@ namespace GVision.Algorithms.Blob
 
                 Rectangle validRoi = GRoiHelper.GetValidRoi(request.Roi, request.SourceImage.Size);
 
-                roiImage = GRoiHelper.Crop(request.SourceImage, request.Roi);
+                roiImage = GEmguRoiHelper.Crop(request.SourceImage, request.Roi);
 
                 grayImage = GGrayPreprocessor.Process(roiImage);
                 blurImage = GBlurPreprocessor.Process(grayImage, parameter.EnableBlur ? parameter.BlurKernelSize : 1);
