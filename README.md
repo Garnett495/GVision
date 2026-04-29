@@ -6,7 +6,7 @@ GVision 是一個以 **AOI（自動光學檢測）** 為核心的影像處理 DL
 ---
 
 ## 🚀 功能特色
-
+```
 🧩 Method-Based 模組化架構
 🔍 Blob 檢測（第一版完成）
 ⭕ Ring 圓形檢測（新增）
@@ -14,7 +14,7 @@ GVision 是一個以 **AOI（自動光學檢測）** 為核心的影像處理 DL
 📊 統一檢測結果格式（Result / Defect）
 🔄 可擴充多種檢測方法（Particle / Scratch / Edge）
 ⚙️ 與 UI 解耦（WinForms / Console / Service）
-
+```
 ---
 
 ## 🏗️ 專案架構
