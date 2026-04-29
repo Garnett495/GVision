@@ -117,8 +117,8 @@ Rectangle global = GRoiHelper.ToGlobal(localRect, validRoi);
 
 
 ## 未來擴充方向
-- 多 ROI 支援
-- Ignore / Mask ROI
-- Polygon ROI
-- ROI 編輯器（滑鼠操作）
-- 與 Recipe 系統整合
+多 ROI 支援
+Ignore / Mask ROI
+Polygon ROI
+ROI 編輯器（滑鼠操作）
+與 Recipe 系統整合

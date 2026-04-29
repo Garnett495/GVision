@@ -114,8 +114,16 @@
     <Compile Include="Algorithms\Blob\GBlobParameter.cs" />
     <Compile Include="Algorithms\IGInspectionMethod.cs" />
     <Compile Include="Algorithms\IGInspectionParameter.cs" />
+    <Compile Include="Algorithms\Ring\GRingCandidateDetector.cs" />
+    <Compile Include="Algorithms\Ring\GRingDefectType.cs" />
+    <Compile Include="Algorithms\Ring\GRingEvaluator.cs" />
+    <Compile Include="Algorithms\Ring\GRingFeature.cs" />
+    <Compile Include="Algorithms\Ring\GRingFeatureExtractor.cs" />
+    <Compile Include="Algorithms\Ring\GRingInspectionMethod.cs" />
+    <Compile Include="Algorithms\Ring\GRingParameter.cs" />
     <Compile Include="Core\GInspectionMethodBase.cs" />
     <Compile Include="Example\GBlobConsoleExample.cs" />
+    <Compile Include="Example\GRingConsoleExample.cs" />
     <Compile Include="Models\GDefectResult.cs" />
     <Compile Include="Models\GDefectStatistics.cs" />
     <Compile Include="Models\GInspectionRequest.cs" />

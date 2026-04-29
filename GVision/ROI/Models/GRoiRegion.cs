@@ -31,6 +31,43 @@ namespace GVision.ROI.Models
         public Rectangle Bounds { get; set; }
 
         /// <summary>
+        /// ROI 左上角 X。
+        /// </summary>
+        public int X
+        {
+            get { return Bounds.X; }
+            set { Bounds = new Rectangle(value, Bounds.Y, Bounds.Width, Bounds.Height); }
+        }
+
+        /// <summary>
+        /// ROI 左上角 Y。
+        /// </summary>
+        public int Y
+        {
+            get { return Bounds.Y; }
+            set { Bounds = new Rectangle(Bounds.X, value, Bounds.Width, Bounds.Height); }
+        }
+
+        /// <summary>
+        /// ROI 寬度。
+        /// </summary>
+        public int Width
+        {
+            get { return Bounds.Width; }
+            set { Bounds = new Rectangle(Bounds.X, Bounds.Y, value, Bounds.Height); }
+        }
+
+        /// <summary>
+        /// ROI 高度。
+        /// </summary>
+        public int Height
+        {
+            get { return Bounds.Height; }
+            set { Bounds = new Rectangle(Bounds.X, Bounds.Y, Bounds.Width, value); }
+        }
+
+
+        /// <summary>
         /// 是否啟用此 ROI。
         /// false 時，外部可視為未指定 ROI。
         /// </summary>
@@ -75,6 +112,22 @@ namespace GVision.ROI.Models
                 IsEnabled = this.IsEnabled,
                 IsIgnoreRegion = this.IsIgnoreRegion
             };
+        }
+
+        /// <summary>
+        /// 轉成 Rectangle。
+        /// </summary>
+        public Rectangle ToRectangle()
+        {
+            return Bounds;
+        }
+
+        /// <summary>
+        /// 是否為有效 ROI。
+        /// </summary>
+        public bool IsValid()
+        {
+            return IsEnabled && Bounds.Width > 0 && Bounds.Height > 0;
         }
     }
 }
