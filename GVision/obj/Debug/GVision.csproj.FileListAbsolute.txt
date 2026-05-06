@@ -150,3 +150,41 @@ C:\SideProjects\GVision\GVision_ AddRingMeasureAlgorithms\GVision\bin\Debug\Syst
 C:\SideProjects\GVision\GVision_ AddRingMeasureAlgorithms\GVision\bin\Debug\System.Text.Json.xml
 C:\SideProjects\GVision\GVision_ AddRingMeasureAlgorithms\GVision\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\SideProjects\GVision\GVision_ AddRingMeasureAlgorithms\GVision\obj\Debug\GVision.csproj.Up2Date
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\GVision.dll.config
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\GVision.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\GVision.pdb
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.Common.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Buffers.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.IO.Pipelines.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Memory.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Text.Json.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.Common.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Buffers.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.pdb
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.IO.Pipelines.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Memory.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Text.Json.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.csproj.AssemblyReference.cache
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.Viewer.Example.GViewerExampleForm.resources
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.csproj.GenerateResource.cache
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.csproj.CoreCompileInputs.cache
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.csproj.Up2Date
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.dll
+C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\obj\Debug\GVision.pdb
