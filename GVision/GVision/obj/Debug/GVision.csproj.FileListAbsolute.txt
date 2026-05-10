@@ -159,7 +159,6 @@ C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInte
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.Common.dll
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.dll
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Buffers.dll
-C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.dll
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.IO.Pipelines.dll
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Memory.dll
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Numerics.Vectors.dll
@@ -172,8 +171,6 @@ C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetSta
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\SunnyUI.Common.xml
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Buffers.xml
-C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.pdb
-C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Drawing.Common.xml
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.IO.Pipelines.xml
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Memory.xml
 C:\Users\zxcvb\OneDrive\桌面\GVision\GVision\bin\Debug\System.Numerics.Vectors.xml

@@ -10,6 +10,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
 
+
 namespace GVision.Viewer.Controls
 {
     [ToolboxItem(true)]
@@ -50,6 +51,7 @@ namespace GVision.Viewer.Controls
         private PointF _roiStartImagePoint;
         private Rectangle _roiStartBounds;
         private float _roiStartAngle;
+        private string _roiOverlayInfoText = string.Empty;
 
         private const int RoiHitRange = 8;
         private const int RoiMinSize = 10;
@@ -115,6 +117,17 @@ namespace GVision.Viewer.Controls
         [Category("GVision")]
         [Description("是否啟用 ROI 編輯功能。")]
         public bool EnableRoiEdit { get; set; }
+
+        [Browsable(false)]
+        public string RoiOverlayInfoText
+        {
+            get { return _roiOverlayInfoText; }
+            set
+            {
+                _roiOverlayInfoText = value;
+                Invalidate();
+            }
+        }
 
 
         public event EventHandler<GRoiRegion> RoiChanged;
@@ -556,15 +569,22 @@ namespace GVision.Viewer.Controls
             {
                 DrawRotatedRectangle(g, pen, rect, _editableRoi.Angle);
 
+                string extraInfo = string.IsNullOrEmpty(_roiOverlayInfoText) ? string.Empty: " " + _roiOverlayInfoText;
+
                 string text = string.Format(
-                    "ROI X:{0} Y:{1} W:{2} H:{3} A:{4:0}",
+                    "ROI X:{0} Y:{1} W:{2} H:{3} A:{4:0} \n{5}",
                     _editableRoi.X,
                     _editableRoi.Y,
                     _editableRoi.Width,
                     _editableRoi.Height,
-                    _editableRoi.Angle);
+                    _editableRoi.Angle,
+                    extraInfo);
 
-                g.DrawString(text, font, brush, rect.X, rect.Y - 18);
+                float textY = rect.Y - 18;
+                if (textY < 0)
+                    textY = rect.Y + 4;
+
+                g.DrawString(text, font, brush, rect.X, textY);
             }
         }
 
@@ -859,7 +879,7 @@ namespace GVision.Viewer.Controls
 
                 _editableRoi.Angle = NormalizeAngle(_roiRotateStartRoiAngle + deltaAngle);
 
-                //RaiseRoiChanged();
+                RaiseRoiChanged();
                 Invalidate();
                 return true;
             }
@@ -908,7 +928,7 @@ namespace GVision.Viewer.Controls
             _editableRoi.Height = newRect.Height;
             _editableRoi.Angle = _roiStartAngle;
 
-            //RaiseRoiChanged();
+            RaiseRoiChanged();
 
             // 這行是關鍵：拖曳過程中即時重繪
             Invalidate();

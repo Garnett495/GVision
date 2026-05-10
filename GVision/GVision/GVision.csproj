@@ -114,6 +114,12 @@
     <Compile Include="Algorithms\Blob\GBlobParameter.cs" />
     <Compile Include="Algorithms\Blob\GBlobPreprocessEnums.cs" />
     <Compile Include="Algorithms\Blob\GDebugImage.cs" />
+    <Compile Include="Algorithms\Focus\Examples\GFocusScorerExample.cs" />
+    <Compile Include="Algorithms\Focus\GFocusBlockResult.cs" />
+    <Compile Include="Algorithms\Focus\GFocusParameter.cs" />
+    <Compile Include="Algorithms\Focus\GFocusScoreMode.cs" />
+    <Compile Include="Algorithms\Focus\GFocusScorer.cs" />
+    <Compile Include="Algorithms\Focus\GFocusScoreResult.cs" />
     <Compile Include="Algorithms\IGInspectionMethod.cs" />
     <Compile Include="Algorithms\IGInspectionParameter.cs" />
     <Compile Include="Algorithms\Ring\GRingCandidateDetector.cs" />
