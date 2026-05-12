@@ -18,7 +18,7 @@ namespace GVision.Algorithms.Blob
         /// <summary>
         /// 將 Blob 特徵評估為缺陷結果。
         /// </summary>
-        public virtual List<GDefectResult> Evaluate(List<GBlobFeature> features, GVision.ROI.Models.GRoiRegion roi, GBlobParameter parameter)
+        public virtual List<GDefectResult> Evaluate(List<GBlobFeature> features, Rectangle validRoi, GBlobParameter parameter)
         {
             List<GDefectResult> defects = new List<GDefectResult>();
 
@@ -34,8 +34,8 @@ namespace GVision.Algorithms.Blob
 
                 GDefectResult defect = new GDefectResult();
                 defect.DefectType = "Blob";
-                defect.BoundingBox = GRoiHelper.ToGlobal(feature.BoundingBox, roi);
-                defect.Center = GRoiHelper.ToGlobal(feature.Center, roi);
+                defect.BoundingBox = GRoiHelper.ToGlobal(feature.BoundingBox, validRoi);
+                defect.Center = GRoiHelper.ToGlobal(feature.Center, validRoi);
                 defect.Area = feature.Area;
                 defect.Width = feature.Width;
                 defect.Height = feature.Height;

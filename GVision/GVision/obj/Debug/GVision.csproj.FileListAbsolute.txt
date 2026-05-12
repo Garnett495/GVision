@@ -221,73 +221,38 @@ D:\Garnett\Projects\GVision\For Reference\GVision\GVision\obj\Debug\GVision.cspr
 D:\Garnett\Projects\GVision\For Reference\GVision\GVision\obj\Debug\GVision.csproj.Up2Date
 D:\Garnett\Projects\GVision\For Reference\GVision\GVision\obj\Debug\GVision.dll
 D:\Garnett\Projects\GVision\For Reference\GVision\GVision\obj\Debug\GVision.pdb
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.dll.config
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.pdb
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.Common.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Buffers.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.IO.Pipelines.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Memory.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Numerics.Vectors.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Encodings.Web.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Json.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.Common.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Buffers.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.IO.Pipelines.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Memory.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Numerics.Vectors.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Encodings.Web.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Json.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.AssemblyReference.cache
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.Viewer.Example.GViewerExampleForm.resources
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.GenerateResource.cache
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.CoreCompileInputs.cache
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.Up2Date
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.dll
-D:\Garnett\Codex Project\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.pdb
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.dll.config
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\GVision.pdb
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.Common.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Buffers.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.IO.Pipelines.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Memory.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Numerics.Vectors.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Encodings.Web.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Json.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\SunnyUI.Common.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Buffers.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.IO.Pipelines.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Memory.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Numerics.Vectors.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Encodings.Web.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Text.Json.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.AssemblyReference.cache
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.Viewer.Example.GViewerExampleForm.resources
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.GenerateResource.cache
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.CoreCompileInputs.cache
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.csproj.Up2Date
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.dll
-D:\Garnett\Claude Projects\WaferCrackInspection\GVision\GVision\obj\Debug\GVision.pdb
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\GVision.dll.config
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\GVision.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\GVision.pdb
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\SunnyUI.Common.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\SunnyUI.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Buffers.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.IO.Pipelines.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Memory.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Numerics.Vectors.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Text.Encodings.Web.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Text.Json.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\SunnyUI.Common.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Buffers.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.IO.Pipelines.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Memory.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Numerics.Vectors.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Text.Encodings.Web.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Text.Json.xml
+C:\Claude\GVision\src\GVision\GVision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.csproj.AssemblyReference.cache
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.Viewer.Example.GViewerExampleForm.resources
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.csproj.GenerateResource.cache
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.csproj.CoreCompileInputs.cache
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.csproj.Up2Date
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.dll
+C:\Claude\GVision\src\GVision\GVision\obj\Debug\GVision.pdb

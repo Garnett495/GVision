@@ -115,6 +115,12 @@
     <Compile Include="Algorithms\Blob\GBlobPreprocessEnums.cs" />
     <Compile Include="Algorithms\Blob\GDebugImage.cs" />
     <Compile Include="Algorithms\Focus\Examples\GFocusScorerExample.cs" />
+    <Compile Include="Algorithms\GoldenCompare\GGoldenCompareDiffAnalyzer.cs" />
+    <Compile Include="Algorithms\GoldenCompare\GGoldenCompareInspectionMethod.cs" />
+    <Compile Include="Algorithms\GoldenCompare\GGoldenCompareParameter.cs" />
+    <Compile Include="Algorithms\GradientWidth\GGradientWidthEdgeFinder.cs" />
+    <Compile Include="Algorithms\GradientWidth\GGradientWidthInspectionMethod.cs" />
+    <Compile Include="Algorithms\GradientWidth\GGradientWidthParameter.cs" />
     <Compile Include="Algorithms\Focus\GFocusBlockResult.cs" />
     <Compile Include="Algorithms\Focus\GFocusParameter.cs" />
     <Compile Include="Algorithms\Focus\GFocusScoreMode.cs" />
