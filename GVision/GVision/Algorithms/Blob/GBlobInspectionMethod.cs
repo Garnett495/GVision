@@ -45,8 +45,6 @@ namespace GVision.Algorithms.Blob
 
                 bool enableDebugImage = request.EnableDebugImage || parameter.EnableDebugImages;
 
-                Rectangle validRoi = GRoiHelper.GetValidRoi(request.Roi, request.SourceImage.Size);
-
                 if (enableDebugImage)
                     AddDebugImage(result, "01 Source", request.SourceImage);
 
@@ -92,7 +90,7 @@ namespace GVision.Algorithms.Blob
 
 
                 GBlobEvaluator evaluator = new GBlobEvaluator();
-                List<GDefectResult> defects = evaluator.Evaluate(features, validRoi, parameter);
+                List<GDefectResult> defects = evaluator.Evaluate(features, request.Roi, parameter);
 
                 result.Defects = defects;
                 BuildStatistics(result, defects);
@@ -103,7 +101,7 @@ namespace GVision.Algorithms.Blob
 
                 if (request.EnableDebugImage)
                 {
-                    result.ResultOverlay = GOverlayRenderer.Draw(request.SourceImage, defects);
+                    result.ResultOverlay = GOverlayRenderer.Draw(request.SourceImage, defects, request.Roi);
                     AddDebugImage(result, "08 Result Overlay", result.ResultOverlay);
                 }
             }

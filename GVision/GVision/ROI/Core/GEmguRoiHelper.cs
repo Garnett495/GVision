@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Drawing;
 
 using Emgu.CV;
+using Emgu.CV.CvEnum;
+using Emgu.CV.Structure;
 
 using GVision.ROI.Models;
 
@@ -32,7 +34,40 @@ namespace GVision.ROI.Core
 
             Rectangle validRoi = GRoiHelper.GetValidRoi(roi, sourceImage.Size);
 
-            return new Mat(sourceImage, validRoi);
+            if (!GRoiHelper.HasRotation(roi))
+                return new Mat(sourceImage, validRoi);
+
+            using (Mat rotatedImage = RotateForCrop(sourceImage, roi))
+            using (Mat croppedView = new Mat(rotatedImage, validRoi))
+            {
+                return croppedView.Clone();
+            }
+        }
+
+        private static Mat RotateForCrop(Mat sourceImage, GRoiRegion roi)
+        {
+            Mat rotated = new Mat();
+            PointF center = GRoiHelper.GetCenter(roi);
+            float signedAngle = GRoiHelper.NormalizeSignedAngle(roi.Angle);
+
+            using (Mat rotationMatrix = new Mat())
+            {
+                // Viewer 的 ROI 角度在畫面座標下是順時針為正，
+                // OpenCV WarpAffine 則是逆時針為正，因此這裡直接使用
+                // signed angle 讓 ROI 內容旋正到水平，而不是再額外取負號。
+                CvInvoke.GetRotationMatrix2D(center, signedAngle, 1.0, rotationMatrix);
+                CvInvoke.WarpAffine(
+                    sourceImage,
+                    rotated,
+                    rotationMatrix,
+                    sourceImage.Size,
+                    Inter.Linear,
+                    Warp.Default,
+                    BorderType.Constant,
+                    new MCvScalar(0, 0, 0));
+            }
+
+            return rotated;
         }
 
         /// <summary>

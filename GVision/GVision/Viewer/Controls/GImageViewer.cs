@@ -303,6 +303,7 @@ namespace GVision.Viewer.Controls
 
             _editableRoi.IsEnabled = true;
             EnableRoiEdit = true;
+            EnableImagePan = false;
 
             Invalidate();
         }
@@ -314,6 +315,7 @@ namespace GVision.Viewer.Controls
             _roiEditMode = RoiEditMode.None;
 
             EnableRoiEdit = false;
+            EnableImagePan = true;
 
             Cursor = Cursors.Default;
             Invalidate();
@@ -661,8 +663,7 @@ namespace GVision.Viewer.Controls
                     MouseImagePointChanged(this, _currentImagePoint);
             }
 
-            // 若正在拖曳平移圖片，不讓 ROI 邏輯攔截 MouseMove
-            if (!_isDragging && EnableRoiEdit && _editableRoi != null)
+            if (EnableRoiEdit && _editableRoi != null)
             {
                 if (HandleRoiMouseMove(e))
                     return;
