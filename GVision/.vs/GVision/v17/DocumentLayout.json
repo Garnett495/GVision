@@ -1,170 +1,176 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\",
+  "WorkspaceRootPath": "D:\\Garnett\\Git\\GVision\\GVision\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GVision||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|d:\\garnett\\git\\gvision\\gvision\\gvision\\algorithms\\ring\\gringparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\example\\gringconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\example\\gringconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\example\\gringconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\models\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\models\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\models\\groiregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\ginspectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\ginspectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\core\\ginspectionmethodbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\iginspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringdefecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringdefecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringdefecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|c:\\sideprojects\\gvision\\gvision_ addringmeasurealgorithms\\gvision\\algorithms\\ring\\gringfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\ring\\gringfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\ring\\gringfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobinspectionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\example\\gblobconsoleexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\core\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\core\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\core\\groihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\core\\gemguroihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\core\\gemguroihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\core\\gemguroihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\services\\groicollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\services\\groicollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groicollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\services\\groimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\services\\groimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\example\\groibasicexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\example\\groibasicexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\example\\groibasicexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\vieweradapter\\igimagevieweradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\vieweradapter\\igimagevieweradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\vieweradapter\\igimagevieweradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\roi\\services\\groiserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\roi\\services\\groiserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\roi\\services\\groiserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\example\\gviewerexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\controls\\gimageviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\models\\goverlayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\models\\goverlayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\models\\goverlayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\viewer\\enums\\goverlaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\viewer\\enums\\goverlaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\viewer\\enums\\goverlaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gmorphologypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\rendering\\goverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeatureextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobcandidatedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gthresholdpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\gblurpreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\preprocessing\\ggraypreprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\blob\\gblobparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\gdefectstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\models\\gdefectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|D:\\Garnett\\Git\\GVision\\GVision\\gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|solutionrelative:gvision\\algorithms\\iginspectionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC33C756-1B90-4906-942F-7CC00CB12C43}|GVision\\GVision.csproj|d:\\garnett\\git\\gvision\\gvision\\gvision\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -174,184 +180,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GRingConsoleExample.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Example\\GRingConsoleExample.cs",
-              "RelativeDocumentMoniker": "GVision\\Example\\GRingConsoleExample.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Example\\GRingConsoleExample.cs",
-              "RelativeToolTip": "GVision\\Example\\GRingConsoleExample.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:58:55.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GRingInspectionMethod.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFUAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:29.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GRingFeatureExtractor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAEwG0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:22.75Z",
+              "DocumentIndex": 0,
+              "Title": "GVision",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\GVision.csproj",
+              "RelativeDocumentMoniker": "GVision\\GVision.csproj",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\GVision.csproj",
+              "RelativeToolTip": "GVision\\GVision.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-14T07:13:08.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GRingEvaluator.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAmwKQAAAAaAAAAAAAAAA==",
+              "Title": "GRingFeatureExtractor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingFeatureExtractor.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAEwG0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:09.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:31:22.75Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "GRingEvaluator.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingEvaluator.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAmwKQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:31:09.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GInspectionMethodBase.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Core\\GInspectionMethodBase.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Core\\GInspectionMethodBase.cs",
               "RelativeDocumentMoniker": "GVision\\Core\\GInspectionMethodBase.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Core\\GInspectionMethodBase.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Core\\GInspectionMethodBase.cs",
               "RelativeToolTip": "GVision\\Core\\GInspectionMethodBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:08:13.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T09:08:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GInspectionResult.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GInspectionResult.cs",
+              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionResult.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GInspectionResult.cs",
+              "RelativeToolTip": "GVision\\Models\\GInspectionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:12:31.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GInspectionResult.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GInspectionResult.cs",
-              "RelativeDocumentMoniker": "GVision\\Models\\GInspectionResult.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GInspectionResult.cs",
-              "RelativeToolTip": "GVision\\Models\\GInspectionResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:31.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "GInspectionRequest.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GInspectionRequest.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GInspectionRequest.cs",
               "RelativeDocumentMoniker": "GVision\\Models\\GInspectionRequest.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GInspectionRequest.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GInspectionRequest.cs",
               "RelativeToolTip": "GVision\\Models\\GInspectionRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwCkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:12:23.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T09:12:23.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GRingParameter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingParameter.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingParameter.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingParameter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingParameter.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingParameter.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingParameter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T12:31:36.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGInspectionMethod.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\IGInspectionMethod.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionMethod.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\IGInspectionMethod.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\IGInspectionMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GRingInspectionMethod.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingInspectionMethod.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T09:07:41.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:31:29.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GRoiRegion.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Models\\GRoiRegion.cs",
-              "RelativeDocumentMoniker": "GVision\\ROI\\Models\\GRoiRegion.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Models\\GRoiRegion.cs",
-              "RelativeToolTip": "GVision\\ROI\\Models\\GRoiRegion.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowGwAAAANAAAAAAAAAA==",
+              "Title": "GRingConsoleExample.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Example\\GRingConsoleExample.cs",
+              "RelativeDocumentMoniker": "GVision\\Example\\GRingConsoleExample.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Example\\GRingConsoleExample.cs",
+              "RelativeToolTip": "GVision\\Example\\GRingConsoleExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T03:19:15.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:58:55.519Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GRingDefectType.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingDefectType.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingDefectType.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingDefectType.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingDefectType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "IGInspectionMethod.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionMethod.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionMethod.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionMethod.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\IGInspectionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:43.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T09:07:41.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GRoiRegion.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Models\\GRoiRegion.cs",
+              "RelativeDocumentMoniker": "GVision\\ROI\\Models\\GRoiRegion.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Models\\GRoiRegion.cs",
+              "RelativeToolTip": "GVision\\ROI\\Models\\GRoiRegion.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T03:19:15.134Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GRingCandidateDetector.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Title": "GRingDefectType.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingDefectType.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingDefectType.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingDefectType.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingDefectType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:03.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:31:43.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "GRingFeature.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingFeature.cs",
-              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingFeature.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Ring\\GRingFeature.cs",
-              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingFeature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "GRingCandidateDetector.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingCandidateDetector.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:31:16.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T12:31:03.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
+              "Title": "GRingFeature.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingFeature.cs",
+              "RelativeDocumentMoniker": "GVision\\Algorithms\\Ring\\GRingFeature.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Ring\\GRingFeature.cs",
+              "RelativeToolTip": "GVision\\Algorithms\\Ring\\GRingFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:31:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "GRoiCollection.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiCollection.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiCollection.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiCollection.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiCollection.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiCollection.cs",
               "RelativeToolTip": "GVision\\ROI\\Services\\GRoiCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +365,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GRoiHelper.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Core\\GRoiHelper.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Core\\GRoiHelper.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Core\\GRoiHelper.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Core\\GRoiHelper.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Core\\GRoiHelper.cs",
               "RelativeToolTip": "GVision\\ROI\\Core\\GRoiHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GBlobConsoleExample.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Example\\GBlobConsoleExample.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Example\\GBlobConsoleExample.cs",
               "RelativeDocumentMoniker": "GVision\\Example\\GBlobConsoleExample.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Example\\GBlobConsoleExample.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Example\\GBlobConsoleExample.cs",
               "RelativeToolTip": "GVision\\Example\\GBlobConsoleExample.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAiwCgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +389,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GBlobEvaluator.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobEvaluator.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +401,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GBlobInspectionMethod.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobInspectionMethod.cs",
               "ViewState": "AgIAABQAAAAAAAAAAIA3wCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +413,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GRoiManager.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiManager.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiManager.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiManager.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiManager.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiManager.cs",
               "RelativeToolTip": "GVision\\ROI\\Services\\GRoiManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +425,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GEmguRoiHelper.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Core\\GEmguRoiHelper.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Core\\GEmguRoiHelper.cs",
               "RelativeToolTip": "GVision\\ROI\\Core\\GEmguRoiHelper.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,11 +437,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GRoiBasicExample.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Example\\GRoiBasicExample.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Example\\GRoiBasicExample.cs",
               "RelativeToolTip": "GVision\\ROI\\Example\\GRoiBasicExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IGImageViewerAdapter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
               "RelativeToolTip": "GVision\\ROI\\ViewerAdapter\\IGImageViewerAdapter.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,11 +461,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "GRoiSerializer.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiSerializer.cs",
               "RelativeDocumentMoniker": "GVision\\ROI\\Services\\GRoiSerializer.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\ROI\\Services\\GRoiSerializer.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\ROI\\Services\\GRoiSerializer.cs",
               "RelativeToolTip": "GVision\\ROI\\Services\\GRoiSerializer.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,11 +473,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "GViewerExampleForm.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
               "RelativeToolTip": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,33 +485,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "GViewerExampleForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Example\\GViewerExampleForm.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Example\\GViewerExampleForm.cs",
               "ToolTip": "C:\\SideProjects\\GVision\\GVision_0426\\GVision\\Viewer\\Example\\GViewerExampleForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "..\\GVision_0426\\GVision\\Viewer\\Example\\GViewerExampleForm.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T02:11:16.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "GImageViewer.cs [Design]",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Controls\\GImageViewer.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Controls\\GImageViewer.cs",
               "ToolTip": "C:\\SideProjects\\GVision\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs [Design]",
-              "RelativeToolTip": "..\\GVision_Add ROI\\GVision\\Viewer\\Controls\\GImageViewer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T02:08:23.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "GOverlayType.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Enums\\GOverlayType.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Enums\\GOverlayType.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Enums\\GOverlayType.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Enums\\GOverlayType.cs",
               "RelativeToolTip": "GVision\\Viewer\\Enums\\GOverlayType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -513,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "GOverlayItem.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Models\\GOverlayItem.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Models\\GOverlayItem.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Models\\GOverlayItem.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Models\\GOverlayItem.cs",
               "RelativeToolTip": "GVision\\Viewer\\Models\\GOverlayItem.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAywAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "GImageViewer.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Controls\\GImageViewer.cs",
               "RelativeDocumentMoniker": "GVision\\Viewer\\Controls\\GImageViewer.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Viewer\\Controls\\GImageViewer.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Viewer\\Controls\\GImageViewer.cs",
               "RelativeToolTip": "GVision\\Viewer\\Controls\\GImageViewer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,11 +541,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "GBlobFeatureExtractor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeatureExtractor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "GBlobCandidateDetector.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobCandidateDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "GMorphologyPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
               "RelativeDocumentMoniker": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
               "RelativeToolTip": "GVision\\Preprocessing\\GMorphologyPreprocessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -573,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "GOverlayRenderer.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Rendering\\GOverlayRenderer.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Rendering\\GOverlayRenderer.cs",
               "RelativeDocumentMoniker": "GVision\\Rendering\\GOverlayRenderer.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Rendering\\GOverlayRenderer.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Rendering\\GOverlayRenderer.cs",
               "RelativeToolTip": "GVision\\Rendering\\GOverlayRenderer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -585,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "GThresholdPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
               "RelativeDocumentMoniker": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GThresholdPreprocessor.cs",
               "RelativeToolTip": "GVision\\Preprocessing\\GThresholdPreprocessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "GBlurPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
               "RelativeDocumentMoniker": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GBlurPreprocessor.cs",
               "RelativeToolTip": "GVision\\Preprocessing\\GBlurPreprocessor.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "GGrayPreprocessor.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
               "RelativeDocumentMoniker": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Preprocessing\\GGrayPreprocessor.cs",
               "RelativeToolTip": "GVision\\Preprocessing\\GGrayPreprocessor.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "GBlobFeature.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobFeature.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobFeature.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAwFUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "GBlobParameter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\Blob\\GBlobParameter.cs",
               "RelativeToolTip": "GVision\\Algorithms\\Blob\\GBlobParameter.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "GDefectStatistics.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GDefectStatistics.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GDefectStatistics.cs",
               "RelativeDocumentMoniker": "GVision\\Models\\GDefectStatistics.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GDefectStatistics.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GDefectStatistics.cs",
               "RelativeToolTip": "GVision\\Models\\GDefectStatistics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "GDefectResult.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GDefectResult.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GDefectResult.cs",
               "RelativeDocumentMoniker": "GVision\\Models\\GDefectResult.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Models\\GDefectResult.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Models\\GDefectResult.cs",
               "RelativeToolTip": "GVision\\Models\\GDefectResult.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAgwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,15 +673,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IGInspectionParameter.cs",
-              "DocumentMoniker": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\IGInspectionParameter.cs",
+              "DocumentMoniker": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionParameter.cs",
               "RelativeDocumentMoniker": "GVision\\Algorithms\\IGInspectionParameter.cs",
-              "ToolTip": "C:\\SideProjects\\GVision\\GVision_ AddRingMeasureAlgorithms\\GVision\\Algorithms\\IGInspectionParameter.cs",
+              "ToolTip": "D:\\Garnett\\Git\\GVision\\GVision\\GVision\\Algorithms\\IGInspectionParameter.cs",
               "RelativeToolTip": "GVision\\Algorithms\\IGInspectionParameter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T09:08:00.6Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
